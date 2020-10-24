@@ -1,3 +1,8 @@
+--[[
+Currently under development,
+                             Created by bonefraktur!
+]]
+
 local ValueTable = {
             TierOne = { 
               [1] = { ['Knife_Name'] = "PROTON", ['Knife_Demand'] = 3, ['Knife_Value'] = 1, ['Knife_Root'] = "Trading/Crafting/Shop/Unboxing" },
